@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/java/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/epmswservice.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jaxb-api-2.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jaxb-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jaxb-xjc-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jaxen-1.1-beta-9.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jaxws-api-2.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/jsr173_api-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/saaj-impl-1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/spring-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/wsdl4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/wstx-asl-3.2.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xbean-2.2.0.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xbean-spring-2.8.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-aegis-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-annotations-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-core-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-java5-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-jaxb2-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-jaxws-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-jsr181-api-1.0-M1.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/xfire-spring-1.2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/java/lib/XmlSchema-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kevin/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.0.33/tomcat-embed-core-8.0.33.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.tomcat.embed"/>
+			<attribute name="maven.artifactId" value="tomcat-embed-core"/>
+			<attribute name="maven.version" value="8.0.33"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
